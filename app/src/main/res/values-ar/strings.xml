@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة التخمين</string>
+    <string name="tv_message_def">"خمن رقم بين ال 0 و 100 "</string>
+    <string name="et_guess_input">"مثال : 2,3,27,17 "</string>
+    <string name="bt_check_button">إلعب من جديد</string>
+    <string name="bt_play_button">تأكد</string>
+    <string name="bt_lan_button">En</string>
+    <string name="toast_smaller">خمن رقم أصغر</string>
+    <string name="toast_greater">خمن رقم أكبر</string>
+    <string name="tv_message_right">تخمين صحيح:)</string>
+</resources>

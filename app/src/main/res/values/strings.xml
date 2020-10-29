@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess Game</string>
+    <string name="tv_message_def">Guess a number btw 0-100!</string>
+    <string name="et_guess_input">eg:50,57,13</string>
+    <string name="bt_check_button">CHECK</string>
+    <string name="bt_play_button">Play Again</string>
+    <string name="bt_lan_button">Ar</string>
+    <string name="toast_smaller">Guess a smaller number</string>
+    <string name="toast_greater">Guess a greater number</string>
+    <string name="tv_message_right">You Guess Right</string>
+</resources>
